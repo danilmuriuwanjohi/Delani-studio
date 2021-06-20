@@ -52,5 +52,7 @@
 .contact-us{
     background-image: url(images/c_image.jpg);
 };
-
+.icons{
+    justify-content: center;
+};
 
