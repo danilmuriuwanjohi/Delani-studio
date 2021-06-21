@@ -1,10 +1,11 @@
-# SCHOOL RANKING
-#### The project is all about calculating the marks of students in individual subjects and ranking them according to their performance. Also it is used to calculate their improvements such as addition of marks in a certain project or withdrawal of marks in a certain type of project, {19/05/2021}
+# DELANI STUDIO
+#### When you with us, you are part of the team of committed collaborators. All apsects of our software development process are intergrated, interactive and agile. {19/05/2021}
 
 ### PRODUCED BY (DANIEL MURIU WANJOHI)
 
 ## Description
- My application ranks children according to marks or rather scores that they attain in their daily tests abd exams. It provides a well detailed graph that helps the teacher to analyse the performance of the student on longterm basis. The application also offers ranking in individual subject such that the best can be ranked in those subjects. Also offers a detailed study and graphs of student performance on individual subjects. It also offers a space where teachers can analyse the general performance on individual subjects.
+ Our approach unifies design, development and product management to create exceptional products. 
+ We start each project by understanding your business goals,the user's needs and requirements.
 ## Setup/Installation Requirements
 * first youll need a visual basic software
 * you'll also need to update your os
