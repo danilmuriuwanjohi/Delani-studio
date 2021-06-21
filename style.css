@@ -1,13 +1,13 @@
 .facility{
-    background-size: 1000px;
-    background-image: url(images/h_img.jpg);
+    height: 100vh;
+    background-image: url('./images/h_img.jpg');
 };
 .d{
     text-align: center;
     font-size: 50px;
 };
 .welcome{
-    text-align: center
+    text-align: center;
     font-size: 50px;
 };
 .delani{
@@ -55,4 +55,5 @@
 .icons{
     justify-content: center;
 };
+
 
