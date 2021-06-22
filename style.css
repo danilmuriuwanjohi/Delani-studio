@@ -5,6 +5,13 @@
     font-size: 30px;
     color: white;
 };
+.about-us{
+    font-size: 20px;
+    margin-top: 20px;
+};
+.tertiary-content{
+    background-image: url('./images/c_image.jpg');
+};
 .d{
     text-align: center;
     font-size: 50px;
