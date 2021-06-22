@@ -1,16 +1,23 @@
-.facility{
+.landing{
     height: 100vh;
-    background-image: url('./images/h_img.jpg');
-    background-repeat: no-repeat;
+    background-image: url("images/h_img.jpg");
     font-size: 30px;
+    text-align: center;
+    /* margin: 10px; */
+    padding: 200px;
     color: white;
+    
+    /* justify-items: center; */
 };
+
 .about-us{
     font-size: 20px;
     margin-top: 20px;
 };
-.tertiary-content{
-    background-image: url('./images/c_image.jpg');
+.service {
+    text-align: center;
+    background-image: red;
+
 };
 .d{
     text-align: center;
