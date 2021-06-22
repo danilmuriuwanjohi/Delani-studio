@@ -1,6 +1,9 @@
 .facility{
     height: 100vh;
     background-image: url('./images/h_img.jpg');
+    background-repeat: no-repeat;
+    font-size: 30px;
+    color: white;
 };
 .d{
     text-align: center;
@@ -55,5 +58,4 @@
 .icons{
     justify-content: center;
 };
-
 
